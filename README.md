@@ -2,6 +2,9 @@
 # Vanadium -nuker-v2
 I created this tool to achieve something for myself in the new year **2026**.
 
+# Support
+There is no support for the tool, and I don't think it will be released as open source.
+
 # What does this tool do?
 It is a simple yet fast and powerful sabotage tool.
 
