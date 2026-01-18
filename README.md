@@ -10,11 +10,17 @@ It is a simple yet fast and powerful sabotage tool.
 
 # What commands are available?
 1 ~ Ban all mamber
+
 2 ~ Create Channels
+
 3 ~ Delete Roles
+
 4 ~ Create Role 
+
 5 ~ Delete Channels
+
 6 ~ spam Channels
+
 
 # I encountered a problem with the tool, what should I do?
 Contact me on Discord 
@@ -41,6 +47,4 @@ on this link you can download the tool!
 <img width="1454" height="700" alt="Screenshot 2026-01-15 163419" src="https://github.com/user-attachments/assets/60532884-8ef6-48d3-80d7-da645a2ae637" />
 
 
-## Main Developer : Vedroa
-## Developer : Leader
 
